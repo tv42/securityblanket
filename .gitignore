@@ -1,0 +1,6 @@
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# this project chooses to not commit generated files, for now
+*.gen.go
